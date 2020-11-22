@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cars2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+    <string name="refresh">Refresh</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="w">W</string>
+    <string name="red">Скорорость</string>
+    <string name="green">Время</string>
+    <string name="yellow">расстояние</string>
+</resources>
